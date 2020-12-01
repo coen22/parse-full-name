@@ -1,4 +1,4 @@
-# parse-full-name
+# parse-full-name (for ES Includes)
 
 [![Build](https://travis-ci.org/dschnelldavis/parse-full-name.svg?branch=master)](https://travis-ci.org/dschnelldavis/parse-full-name)
 [![Dependencies](https://david-dm.org/dschnelldavis/parse-full-name.svg)](https://david-dm.org/dschnelldavis/parse-full-name)
