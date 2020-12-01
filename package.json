@@ -1,6 +1,6 @@
 {
-  "name": "parse-full-name",
-  "version": "1.2.4",
+  "name": "parse-full-name-client-side",
+  "version": "1.2.5",
   "description": "A function that accepts the full name of a person in any format, parses it, and returns its parts { title, first name, middle name, last name, nickname, suffix, [and any parsing errors] }.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RateGravity/parse-full-name"
+    "url": "https://github.com/coen22/parse-full-name"
   },
   "keywords": [
     "parse",
@@ -22,13 +22,14 @@
   ],
   "author": "Own Up <dev@ownup.com> (https://www,ownup.com)",
   "contributors": [
-    "David Schnell-Davis <dschnelldavis@gmail.com> (http://github.com/dschnelldavis)"
+    "David Schnell-Davis <dschnelldavis@gmail.com> (http://github.com/dschnelldavis)",
+    "Coen Hacking <coen.hacking@gmail.com> (http://github.com/coen22)"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RateGravity/parse-full-name/issues"
+    "url": "https://github.com/coen22/parse-full-name/issues"
   },
-  "homepage": "https://github.com/RateGravity/parse-full-name",
+  "homepage": "https://github.com/coen22/parse-full-name",
   "dependencies": {},
   "devDependencies": {
     "mocha": "^2.5.0"
